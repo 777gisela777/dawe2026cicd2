@@ -5,8 +5,8 @@
    ============================================================ */
 
 :root {
-  --color-primary:    #2563eb;   /* Color principal (botons, accents) */
-  --color-primary-hover: #1d4ed8;
+  --color-primary:    #DEC1F8;   /* Color principal (botons, accents) */
+  --color-primary-hover: #E8D7F5;
   --color-bg:         #f1f5f9;   /* Fons de la pàgina */
   --color-surface:    #ffffff;   /* Fons de les targetes */
   --color-header-bg:  #1e3a5f;   /* Fons de la capçalera */
@@ -15,11 +15,11 @@
   --color-text-muted: #64748b;
   --color-border:     #e2e8f0;
   --color-done-bg:    #f0fdf4;
-  --color-done-text:  #16a34a;
-  --color-tag-bg:     #dbeafe;
-  --color-tag-text:   #1d4ed8;
-  --color-tag-done-bg:#dcfce7;
-  --color-tag-done-text:#15803d;
+  --color-done-text:  #020202;
+  --color-tag-bg:     #f0fdf4;
+  --color-tag-text:   #9974BC;
+  --color-tag-done-bg:#D98DC7;
+  --color-tag-done-text:#BD57AB;
   --radius:           0.75rem;
   --shadow:           0 2px 12px rgba(0,0,0,0.08);
 }
